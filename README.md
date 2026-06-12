@@ -141,3 +141,5 @@ pyyaml
 
 ## ⭐ If you like this project
 Give it a ⭐ on GitHub!
+
+Link:https://colab.research.google.com/drive/1T2z8jzClo432C76Hd9X6rnh6Zg4owlnS?usp=sharing
